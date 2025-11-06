@@ -1,0 +1,5 @@
+/.env
+/package-lock.json
+/node_modules
+/teamPulse-frontend/node_modules
+/teamPulse-frontend/package-lock.json
